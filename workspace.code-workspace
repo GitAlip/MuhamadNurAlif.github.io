@@ -1,0 +1,49 @@
+{
+  "folders": [
+	{
+		"path": "..\\latihanjavascript"
+	},
+	{
+		"path": "."
+	},
+	{
+		"path": "..\\css"
+	},
+	{
+		"path": "..\\js"
+	},
+	{
+		"path": "..\\..\\..\\..\\helloworld.py"
+	},
+	{
+		"path": "..\\..\\..\\..\\xampp\\htdocs\\phpdasar\\pertemuan2"
+	},
+	{
+		"path": "..\\..\\..\\..\\xampp\\htdocs\\phpdasar\\pertemuan9"
+	},
+	{
+		"path": "..\\..\\..\\..\\xampp\\htdocs\\phpdasar\\pertemuan10"
+	},
+	{
+		"path": "..\\latihancss"
+	},
+	{
+		"path": "..\\css3"
+	},
+	{
+		"path": "source-sans-pro"
+	},
+	{
+		"path": "..\\dasar pemrograman dengan javascript"
+	},
+	{
+		"path": "..\\latihan membuat website"
+	},
+	{
+		"path": "..\\Portfolio-Bootstrap5"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "latihanjavascript"
+  }
+}
