@@ -1,0 +1,117 @@
+{
+    "name": "__MSG_name__",
+    "description": "__MSG_description__",
+    "manifest_version": 2,
+    "version": "0.0.1",
+    "default_locale": "en",
+    "icons": {
+        "128": "icon.png"
+    },
+    "theme": {
+        "colors": {
+            "bookmark_text": [
+                216,
+                222,
+                233
+            ],
+            "tab_text": [
+                216,
+                222,
+                233
+            ],
+            "tab_background_text": [
+                129,
+                161,
+                193
+            ],
+            "omnibox_background": [
+                67,
+                76,
+                94
+            ],
+            "ntp_background": [
+                51,
+                58,
+                72
+            ],
+            "toolbar": [
+                76,
+                86,
+                106
+            ],
+            "frame_inactive": [
+                51,
+                58,
+                71
+            ],
+            "background_tab_inactive": [
+                59,
+                66,
+                82
+            ],
+            "background_tab_incognito": [
+                59,
+                66,
+                82
+            ],
+            "background_tab_incognito_inactive": [
+                59,
+                66,
+                82
+            ],
+            "frame_incognito": [
+                51,
+                58,
+                71
+            ],
+            "frame_incognito_inactive": [
+                51,
+                58,
+                71
+            ],
+            "background_tab": [
+                59,
+                66,
+                82
+            ],
+            "omnibox_text": [
+                129,
+                161,
+                193
+            ],
+            "ntp_text": [
+                51,
+                58,
+                71
+            ],
+            "frame": [
+                51,
+                58,
+                71
+            ],
+            "ntp_link": [
+                51,
+                58,
+                71
+            ],
+            "ntp_header": [
+                51,
+                58,
+                71
+            ]
+        },
+        "tints": {
+            "buttons": [
+                0.5833333333333334,
+                0.9006602422637537,
+                0.8147770799999998
+            ]
+        },
+        "properties": {
+            "ntp_background_alignment": "top"
+        },
+        "images": {
+            "theme_ntp_background": "theme_ntp_background.png"
+        }
+    }
+}
